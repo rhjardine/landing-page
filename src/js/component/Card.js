@@ -4,7 +4,7 @@ export const Card = () => {
 	return (
 		<div className="card m-2" style={{ width: 18 + "rem" }}>
 			<img
-				src="https://www.fillmurray.com/500/325"
+				src="https://i2-prod.buzz.ie/incoming/article26586560.ece/ALTERNATES/s1200d/0_Top-Gun-Maverick-Poster-cropped.jpg"
 				className="card-img-top"
 				alt="Fill Murray 500x325"
 			/>
